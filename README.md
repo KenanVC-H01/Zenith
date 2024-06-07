@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+![snake gif](https://github.com/KenanVC-H01/Zenith/blob/output/snake.svg)
 
 ###
