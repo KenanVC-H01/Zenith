@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ3dnk4czlwNXpraW8yMmExMjkzODhwY3VkcGFmbnQ5eWEwaTN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w69xBhn4JF2IYActlQ/giphy.gif""
+  <img alt="GIF" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562"
 </div>
 
 ###
